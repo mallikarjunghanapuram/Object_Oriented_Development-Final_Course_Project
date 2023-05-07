@@ -1,5 +1,6 @@
 
-# Object Oriented Assignment 2
+# Object Oriented Development- Final Course Project
+
 
 In objectOriented folder there are two sub-folders ckFiles and patterns.
 
